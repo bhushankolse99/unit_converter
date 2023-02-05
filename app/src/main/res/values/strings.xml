@@ -1,0 +1,15 @@
+<resources>
+    <string name="enter">ENTER VALUE</string>
+    <string name="input"></string>
+    <string name="kilo">KILOMETER</string>
+    <string name="me">METER</string>
+    <string name="cent">CENTIMETER</string>
+    <string name="milli">MILLIMETER</string>
+    <string name="result">CONVERTED VALUE</string>
+    <string name="output"></string>
+    <string name="k">KILOMETER</string>
+    <string name="met">METER</string>
+    <string name="centi">CENTIMETER</string>
+    <string name="mill">MILLIMETER</string>
+    <string name="submit">CONVERT</string>
+</resources>
